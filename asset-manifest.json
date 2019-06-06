@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-challenge/static/css/main.83902452.chunk.css",
+    "main.js": "/react-challenge/static/js/main.0a652031.chunk.js",
+    "main.js.map": "/react-challenge/static/js/main.0a652031.chunk.js.map",
+    "runtime~main.js": "/react-challenge/static/js/runtime~main.d3047029.js",
+    "runtime~main.js.map": "/react-challenge/static/js/runtime~main.d3047029.js.map",
+    "static/js/2.5ecca776.chunk.js": "/react-challenge/static/js/2.5ecca776.chunk.js",
+    "static/js/2.5ecca776.chunk.js.map": "/react-challenge/static/js/2.5ecca776.chunk.js.map",
+    "index.html": "/react-challenge/index.html",
+    "precache-manifest.883fa3287419c925d2d7557d867d03c6.js": "/react-challenge/precache-manifest.883fa3287419c925d2d7557d867d03c6.js",
+    "service-worker.js": "/react-challenge/service-worker.js",
+    "static/css/main.83902452.chunk.css.map": "/react-challenge/static/css/main.83902452.chunk.css.map",
+    "static/media/product-1.jpg": "/react-challenge/static/media/product-1.2899e6a6.jpg",
+    "static/media/product-2.jpg": "/react-challenge/static/media/product-2.2f9f5891.jpg"
+  }
+}
